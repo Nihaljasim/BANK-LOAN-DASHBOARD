@@ -8,9 +8,13 @@ This project analyzes bank loan data to uncover key trends, risk factors, and re
 
 ## Objectives
 -Understand year-wise loan disbursement trends
+
 -Analyze good vs bad loan performance
+
 -Assess risk factors using interest rate, DTI, and verification status
+
 -Study repayment behavior across states, loan purposes, grades, and home ownership
+
 -Identify patterns to help reduce defaults and improve loan strategies
 
 ## Key Insights
