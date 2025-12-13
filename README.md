@@ -45,9 +45,16 @@ This project analyzes bank loan data to uncover key trends, risk factors, and re
 
 ## Dashboard Pages
 - <a href="https://github.com/Nihaljasim/BANK-LOAN-DASHBOARD/blob/main/Screenshot%202025-12-13%20173700.png">Summary</a>
-- 
+ 
 - <a href="https://github.com/Nihaljasim/BANK-LOAN-DASHBOARD/blob/main/Screenshot%202025-12-13%20192844.png">overview</a>
 
 - <a href="https://github.com/Nihaljasim/BANK-LOAN-DASHBOARD/blob/main/Screenshot%202025-12-13%20173809.png">Detail</a>
 
+## Outcome
+The dashboard provides actionable insights to:
 
+-Minimize loan defaults
+
+-Improve approval and risk assessment strategies
+
+-Support better financial planning and portfolio performance
