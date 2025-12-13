@@ -1,2 +1,4 @@
-# BANK-LOAN-DASHBOARD
-This project focuses on analyzing bank loan data to uncover key insights related to loan performance, risk assessment, and customer repayment behavior. Using Power BI, raw loan records were transformed into interactive dashboards that help understand trends in loan disbursement, repayment status, and default risk.
+📊 Bank Loan Analysis Dashboard | Power BI
+🔍 Project Overview
+
+This project analyzes bank loan data to uncover key trends, risk factors, and repayment behaviors that support data-driven lending decisions. Using interactive Power BI dashboards, raw loan records were transformed into meaningful business insights.
