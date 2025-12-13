@@ -44,4 +44,4 @@ This project analyzes bank loan data to uncover key trends, risk factors, and re
 -Interactive Filters & Drill-throughs
 
 ## Dashboard Pages
-Summary – High-level KPIs and loan health
+- <a href="https://github.com/Nihaljasim/BANK-LOAN-DASHBOARD/blob/main/Screenshot%202025-12-13%20173700.png">Summary</a> 
