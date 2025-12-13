@@ -18,30 +18,30 @@ This project analyzes bank loan data to uncover key trends, risk factors, and re
 -Identify patterns to help reduce defaults and improve loan strategies
 
 ## Key Insights
->39.7K+ loan applications analyzed
+-39.7K+ loan applications analyzed
 
->85.8% good loans vs 14.2% bad loans
+-85.8% good loans vs 14.2% bad loans
 
->$445.6M funded with $482.7M received
+-$445.6M funded with $482.7M received
 
->Fully paid loans show lower interest rates and DTI
+-Fully paid loans show lower interest rates and DTI
 
->36-month loans outperform 60-month loans in recover
+-36-month loans outperform 60-month loans in recover
 
->Mortgage and debt consolidation dominate funded amounts
+-Mortgage and debt consolidation dominate funded amounts
 
->Verified borrowers show better repayment behavior
+-Verified borrowers show better repayment behavior
 
 ## Tools & Skills Used
->excel
+-excel
 
->Power BI (Dashboard Design, DAX, Data Modeling)
+-Power BI (Dashboard Design, DAX, Data Modeling)
 
->Data Cleaning & Transformation
+-Data Cleaning & Transformation
 
->KPI & Financial Analysis
+-KPI & Financial Analysis
 
->Interactive Filters & Drill-throughs
+-Interactive Filters & Drill-throughs
 
 ## Dashboard Pages
 Summary – High-level KPIs and loan health
