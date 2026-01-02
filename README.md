@@ -1,4 +1,4 @@
-# Bank Loan Analysis Dashboard | Power BI
+# Bank Loan Analysis Dashboard | Power BI | Excel | SQL | Tableau
 ## Project Overview
 
 This project analyzes bank loan data to uncover key trends, risk factors, and repayment behaviors that support data-driven lending decisions. Using interactive Power BI dashboards, raw loan records were transformed into meaningful business insights.
@@ -37,6 +37,10 @@ This project analyzes bank loan data to uncover key trends, risk factors, and re
 
 -Power BI (Dashboard Design, DAX, Data Modeling)
 
+-Sql
+
+-Tableau
+
 -Data Cleaning & Transformation
 
 -KPI & Financial Analysis
@@ -58,5 +62,9 @@ The dashboard provides actionable insights to:
 -Improve approval and risk assessment strategies
 
 -Support better financial planning and portfolio performance
+
+## Tableau Dashboard
+<img width="1650" height="825" alt="Screenshot 2025-12-02 204941" src="https://github.com/user-attachments/assets/3acb9b05-97d0-4c7b-8682-e0713c29e522" />
+
 
 
